@@ -3,8 +3,8 @@
 ### 2. Change the script name for analysis documentation
 ### 3. Fill in all the fields in the renamed script section "User predefined info" according to the field description
 ### 4. Run the analysis, and do not forget to fill in the additional info asked by the script during the analysis 
-######### (after showing the histogram or count table, the user is asked to decide the binary category)
-######### recommended to save the histogram or count table for the documentation
+###### (after showing the histogram or count table, the user is asked to decide the binary category)
+###### recommended to save the histogram or count table for the documentation
 
 
                                                               
