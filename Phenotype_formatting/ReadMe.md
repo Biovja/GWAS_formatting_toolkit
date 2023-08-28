@@ -1,4 +1,5 @@
 # User instruction
+## 1. Please, check the demo phenotype file "Protein.txt" and use it as a template for your phenotype file
 ### 1. Download your phenotype file, the script, and the key file (if renaming from Grin to Soy1066 is required) and store it in the same directory
 ### 2. Change the script name for analysis documentation
 ### 3. Fill in all the fields in the renamed script section "User predefined info" according to the field description
