@@ -105,7 +105,7 @@ if phentyp=="Quant":
     df["Phenotype"]=pd.to_numeric(df["Phenotype"],errors='coerce')
     print (f"The minimal value of the trait is {df.Phenotype.min()} and the maximal value is {df.Phenotype.max()}.")
     print (f"The average of the trait is {df.Phenotype.mean()} and the median value is {df.Phenotype.median()}.")
-    print (f"The 25% quantile (1st) of the trait is {df.Phenotype.quantile(0.25)} and the 75% quantile (3rd) of is {df.Phenotypequantile(0.75)}.")
+    print (f"The 25% quantile (1st) of the trait is {df.Phenotype.quantile(0.25)} and the 75% quantile (3rd) of is {df.Phenotype.quantile(0.75)}.")
     delt = df.Phenotype.max()-df.Phenotype.min()
     dfx=df.dropna()
     if delt <3:plt.hist(dfx.Phenotype, bins = 20)
