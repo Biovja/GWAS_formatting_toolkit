@@ -1,5 +1,5 @@
 # GWAS_formatting_toolkit
-This repository contains a collection of scripts for formatting soybean phenotype data to match with genotype data.
+This repository contains a collection of scripts for formatting soybean genotype and phenotype data for Genome-Wide Association Studies (GWAS) and downstream (post-GWAS) analyses.
 
 The toolkit is designed to simplify preprocessing workflows.
 
