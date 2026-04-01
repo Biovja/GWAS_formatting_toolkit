@@ -5,6 +5,7 @@ The toolkit is designed to simplify preprocessing workflows, ensure consistent d
 
 ### Compatible genotype
 Soy1066
+
 Soy775
 #### Source: https://soykb.org/public_data.php
 ### Compatible phenotype
