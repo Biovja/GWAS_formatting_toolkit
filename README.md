@@ -3,10 +3,10 @@ This repository contains a collection of scripts for formatting soybean genotype
 
 The toolkit is designed to simplify preprocessing workflows, ensure consistent data structure, and improve compatibility with commonly used GWAS tools.
 
-###Compatible genotype
+### Compatible genotype
 Soy1066
 Soy775
-####Source: https://soykb.org/public_data.php
+#### Source: https://soykb.org/public_data.php
 ### Compatible phenotype
 Soybean colection from GRIN
-####Source: https://www.grin-global.org/
+#### Source: https://www.grin-global.org/
