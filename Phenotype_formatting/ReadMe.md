@@ -10,6 +10,7 @@ These scripts allow:
 ---
 ### Compatible genotype
 -Soy1066
+
 -Soy775
 
 Source: https://soykb.org/public_data.php
