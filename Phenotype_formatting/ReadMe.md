@@ -1,11 +1,24 @@
-# User instruction
-## 0. Please, check the demo phenotype file "Protein.txt" and use it as a template for your phenotype file
-### 1. Download your phenotype file, the script, key, and header files (if renaming from Grin to Soy1066 is required) and store it in the same directory
-### 2. Change the script name for analysis documentation
-### 3. Fill in all the fields in the renamed script section "User predefined info" according to the field description
-### 4. Run the analysis, and do not forget to fill in the additional info asked by the script during the analysis 
-###### (after showing the histogram or count table, the user is asked to decide the binary category)
-###### recommended to save the histogram or count table for the documentation
+# GWAS_formatting_toolkit
+## Phenotype_formatting
+
+Scripts for formatting and preprocessing phenotype data for GWAS analyses.
+
+These scripts allow:
+- transformation of phenotype identifiers (e.g., PI IDs) to match genotype datasets  
+- harmonization of phenotype names and formats  
+- binarization of multicategorical or quantitative traits
+---
+### Compatible genotype
+-Soy1066
+-Soy775
+
+Source: https://soykb.org/public_data.php
+---
+###  Compatible phenotype
+
+-Soybean colection from GRIN
+
+Source: https://www.grin-global.org/
 
 
                                                               
